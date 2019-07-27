@@ -49,18 +49,7 @@ ul {
   
   /* Change the link color to #111 (black) on hover */
   li a:hover {
-    background-color: rgb(16, 51, 207);
-
-  }     
-  li a:visited {
-   
-
-  }     
-
-  li a:active {
-    
-
-  }     
+    background-color: rgb(16, 51, 207); }    
 
 
   
