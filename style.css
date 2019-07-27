@@ -13,7 +13,7 @@ input{
   border-radius: 10px;
   width: 80%;
   padding: 5px;
-  
+  margin-top: 15px;
 }
 button{
   margin-right: 30px;
@@ -53,12 +53,12 @@ ul {
 
   }     
   li a:visited {
-    color: brown;
+   
 
   }     
 
   li a:active {
-    color: green;
+    
 
   }     
 
